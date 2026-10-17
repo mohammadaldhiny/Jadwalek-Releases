@@ -1,0 +1,9 @@
+{
+  "version": "3.0.0",
+  "release_date": "2026-10-17",
+  "download_url": "https://github.com/mohammadaldhiny/Jadwalek-Releases/releases/download/v3.0.0/Jadwalek-Setup.exe",
+  "release_notes_ar": "• اقتراح ما يصل إلى 3 جداول دراسية بديلة مع شريط تبديل سريع 🏆🥈🥉\n• نقل إعدادات التليجرام للوضع المتقدم وتفعيل التحميل الكسول لتحقيق سرعة وخفة قصوى عند بدء التشغيل\n• كاش فائق السرعة لإعادة الحساب في أقل من 50 ميلي ثانية بدون فتح المتصفح\n• حماية مطلقة من الانهيار (Crash-Proof) وعزل كامل لانقطاع الشبكة\n• تصدير الجدول إلى تقويم الهاتف (.ics) وحفظه كصورة عالية الدقة وملخص نصي",
+  "release_notes_en": "• Propose up to 3 distinct candidate schedules with interactive quick switcher 🏆🥈🥉\n• On-demand lazy loading for Telegram alerts inside Advanced Mode for featherweight startup\n• Ultra-fast RAM caching engine recalculating schedules in < 50ms without browser relaunch\n• Crash-proof network resilience with automatic retry scheduling\n• Export to phone calendars (.ics), high-res image export, and text clipboard copy",
+  "min_supported_version": "1.0.0",
+  "mandatory": false
+}
